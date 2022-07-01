@@ -62,6 +62,16 @@ Another challenge with English is where to put the semivowels `W` and `Y`, as th
 
 `W` takes the top left pinky spot because this finger has less to do in an [Angle Mod](#angle-mod) setup, and `Y` sits in the `ysv` column. The tradeoff is making the few words that have `vy` or `sy` sequences SFBs, but these are reasonably low-frequency Bigrams compared to all the other candidate spots.
 
+### Colemak DH similarity and problem-solving
+
+Anyone familiar with Colemak DH mod will recognize there are a lot of similarities with Canary. This isn't an accident as there are many good aspects to this layout, but also some things we feel are downsides.
+
+First, it doesn't take advantage of the [Row Stagger](#row-stagger) inner-index keys on the bottom row (see linked section), opting instead to put `K` and `V` there. This has led to some debate in the community, as both of these keys are A) lower frequency and B) pretty high SFBs with `N`. This has led some to swap them, but with `V` on the right, this also causes a common Redirect sequence `eve` which is not the most comfortable.
+
+Secondly, the upper right vowel cluster includes `Y`, causing one of the most common words `you` to be a Redirect that changes rows twice (top-home-top).
+
+Lastly, having `O` on the home row does increase the amount of home-row usage over Canary, it also uses the worse SFB `ue` vs Canary's `oe` column. We have tried to emphasize middle finger use over ring since the middle is the strongest/longest finger for most people.
+
 ### Quote
 
 Finally, the `'` symbol is very problematic in many layouts, as it combines with all sorts of other letters (`n't`, `'s`, `'re` to name a few). But one that it combines with very little is `A`, so it gets to retain its Qwerty spot.
