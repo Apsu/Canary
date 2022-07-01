@@ -70,9 +70,22 @@ As a result, the home-row represents a mixture of both rolling directions, thoug
 
 ## Angle Mod
 
+"Angle Mod" refers colloquially to a couple of things that are sometimes mixed up, both having to do with the lower left of a Row Stagger keyboard:
+
+- Modifying a layout to account for the stagger angle
+- Which fingers you use for which keys
+
+Concerning the former, this is accomplished by taking the far left key on the bottom row and moving it to the qwerty `B` position, then shifting the remaining 4 keys to the left to take its spot.
+
+This change can be seen by comparing the Ortho version of Canary with the base version, where `QJVD_` gets rotated and becomes `JVD_Q`.
+
+(The `_` is `G` in the base version but was rotated up in the Ortho, and `K` is there instead, but the principle is the same.)
+
 ---
 
 ## Ortho
+
+This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`g` and `m`) up to home row, and rotating the other index keys up or down to compensate, based on frequency and also affinity of common sequences such that row skips are minimized as much as possible.
 
 ---
 
