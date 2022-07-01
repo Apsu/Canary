@@ -60,7 +60,11 @@ Canary has a vowel arrangement that is designed to minimize SFBs *and* Redirects
 
 Another challenge with English is where to put the semivowels `W` and `Y`, as these combine at relatively high frequencies with a variety of other letters. We decided to move them to the other hand in a way that avoids both the primary vowels and the highest frequency Consonant-Semivowel combinations (such as `ly`, `ty`, `tw`, `sw`, and so on).
 
-`W` takes the top left pinky spot because this finger has less to do in an [Angle Mod](#angle-mod) setup, and `Y` sits in the `ysv` column. The tradeoff is making the few words that have `vy` or `sy` sequences SFBs, but these are surprisingly low-frequency Bigrams.
+`W` takes the top left pinky spot because this finger has less to do in an [Angle Mod](#angle-mod) setup, and `Y` sits in the `ysv` column. The tradeoff is making the few words that have `vy` or `sy` sequences SFBs, but these are reasonably low-frequency Bigrams compared to all the other candidate spots.
+
+### Quote
+
+Finally, the `'` symbol is very problematic in many layouts, as it combines with all sorts of other letters (`n't`, `'s`, `'re` to name a few). But one that it combines with very little is `A`, so it gets to retain its Qwerty spot.
 
 ---
 
