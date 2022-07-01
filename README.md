@@ -162,24 +162,17 @@ This variation has been modified from the Row Stagger base layout by rotating th
 
 ## Terminology
 
-> Bigram: A sequence of two keys (not containing space)
->
-> Trigram: A sequence of three keys (not containing space)
->
-> SFB: Same Finger Bigram; a bigram that requires the same finger for both keys
->
-> Roll: Trigram which starts on one hand, and progresses to the other hand in one overall direction
->
-> Redirect: A trigram which changes direction
->
-> Alternate: A trigram which changes hands twice
+- Bigram: A sequence of two keys (not containing space)
+- Trigram: A sequence of three keys (not containing space)
+- SFB: Same Finger Bigram; a bigram that requires the same finger for both keys
+- Roll: Trigram which starts on one hand, and progresses to the other hand in one overall direction
+- Redirect: A trigram which changes direction
+- Alternate: A trigram which changes hands twice
 
 ---
 
 ## Contacts
 
-> AKL Discord: https://discord.gg/mvyggXw3
->
-> Tournament Discord: https://discord.gg/4VZyp69r
->
-> MonkeyType Discord: https://discord.gg/fScWpgzF
+- AKL Discord: https://discord.gg/mvyggXw3
+- Tournament Discord: https://discord.gg/4VZyp69r
+- MonkeyType Discord: https://discord.gg/fScWpgzF
