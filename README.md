@@ -4,7 +4,31 @@ Welcome to the Canary Keyboard Layout!
 
 This layout is the result of collaboration between many of the top layout creators from the AKL (Alternate Keyboard Layout) community, and reflects a lot of different ideas and optimization strategies combined together into one.
 
+Downloads of premade layouts for Windows, Mac, and Linux are available from the Releases page.
+
 We are publicly releasing this in conjunction with a typing tournament, and in partnership with MonkeyType. Please refer to the contact links at the bottom for how to get in touch or participate.
+
+---
+
+## Layout
+
+Here is the layout as-designed to be used with [Angle Mod](#angle-mod) on a [Row Stagger](#row-stagger) (standard) keyboard:
+
+```
+w l y p k z x o u ; [ ] \
+ c r s t b f n e i a '
+  j v d g q m h / , .
+```
+
+And here is a version that can be used on [Ortho](#ortho) keyboards:
+
+```
+w l y p b z f o u '
+c r s t g m n e i a
+q j v d k x h / , .
+```
+
+Since most people using these boards will be uploading their own custom firmware, we are not suggesting how to solve for placing other keys such as `;[]\`.
 
 ---
 
