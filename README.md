@@ -8,6 +8,22 @@ This layout is the result of collaboration between many of the top layout creato
 
 We are publicly releasing this in conjunction with a typing tournament, and in partnership with MonkeyType. Please refer to the contact links at the bottom for how to get in touch or participate.
 
+## Table of Contents
+
+- [Layout](#layout)
+- [Design](#design)
+  - [Rolls](#the-primary-guiding-principle-is-high-rolls)
+  - [Finger Balance](#more-ringmiddleindex-load-and-less-pinky-load)
+  - [Vowels](#primary-vowels-on-one-hand-only)
+  - [Semivowels](#semivowels)
+  - [Colemak](#colemak-dh-similarity-and-problem-solving)
+  - [Liquids](#l-and-r)
+  - [Quote](#quote)
+- [Row Stagger](#row-stagger)
+- [Angle Mod](#angle-mod)
+- [Ortho](#ortho)
+- [Terminology](#terminology)
+- [Contacts](#contacts)
 ---
 
 ## Layout
@@ -82,19 +98,7 @@ As a result, we put them on the ring finger like many other modern layouts have 
 
 Finally, the `'` symbol is very problematic in many layouts, as it combines with all sorts of other letters (`n't`, `'s`, `'re` to name a few). But one that it combines with very little is `A`, so it gets to retain its Qwerty spot.
 
----
 
-> Bigram: A sequence of two keys (not containing space)
->
-> Trigram: A sequence of three keys (not containing space)
->
-> SFB: Same Finger Bigram; a bigram that requires the same finger for both keys
->
-> Roll: Trigram which starts on one hand, and progresses to the other hand in one overall direction
->
-> Redirect: A trigram which changes direction
->
-> Alternate: A trigram which changes hands twice
 
 ---
 
@@ -153,6 +157,22 @@ q j v d k x h / , .
 ```
 
 This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`G` and `M`) up to home-row, and rotating the other index keys up or down to compensate, based on letter frequency and also affinity of common sequences, such that row-skips are minimized as much as possible.
+
+---
+
+## Terminology
+
+> Bigram: A sequence of two keys (not containing space)
+>
+> Trigram: A sequence of three keys (not containing space)
+>
+> SFB: Same Finger Bigram; a bigram that requires the same finger for both keys
+>
+> Roll: Trigram which starts on one hand, and progresses to the other hand in one overall direction
+>
+> Redirect: A trigram which changes direction
+>
+> Alternate: A trigram which changes hands twice
 
 ---
 
