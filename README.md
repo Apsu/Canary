@@ -61,10 +61,15 @@ As a result, the home-row represents a mixture of both rolling directions, thoug
 >
 > Alternate: A trigram which changes hands twice
 
-
 ---
 
 ## Row Stagger
+
+Row Stagger refers to the design of the common keyboard that has been in use for over 100 years, where each row is staggered (shifted) relative to the next row. This results in some interesting features, some which are negative (see [Angle Mod](#angle-mod) below), and some which are positive.
+
+The positive ones are taken advantage of in Canary, as follows:
+
+
 
 ---
 
@@ -80,6 +85,14 @@ Concerning the former, this is accomplished by taking the far left key on the bo
 This change can be seen by comparing the Ortho version of Canary with the base version, where `QJVD_` gets rotated and becomes `JVD_Q`.
 
 (The `_` is `G` in the base version but was rotated up in the Ortho, and `K` is there instead, but the principle is the same.)
+
+---
+
+The latter meaning refers to adjusting which fingers hit which keys in the lower left by recognizing that "traditional" touch-typing technique is not very ergonomic, and a better approach is to use the following mapping:
+
+- Ring Finger => Qwerty `Z`
+- Middle Finger => Qwerty `X`
+- Index Finger => Qwerty `C` and `V`
 
 ---
 
