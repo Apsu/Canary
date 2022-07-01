@@ -4,7 +4,7 @@ Welcome to the Canary Keyboard Layout!
 
 This layout is the result of collaboration between many of the top layout creators from the AKL (Alternate Keyboard Layout) community, and reflects a lot of different ideas and optimization strategies combined together into one.
 
-Downloads of premade layouts for Windows, Mac, and Linux are available from the Releases page.
+**Downloads of premade layouts for Windows, Mac, and Linux are available from the [Releases](https://github.com/Apsu/Canary/releases) page.**
 
 We are publicly releasing this in conjunction with a typing tournament, and in partnership with MonkeyType. Please refer to the contact links at the bottom for how to get in touch or participate.
 
