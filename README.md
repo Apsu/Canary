@@ -72,6 +72,12 @@ Secondly, the upper right vowel cluster includes `Y`, causing one of the most co
 
 Lastly, having `O` on the home row does increase the amount of home-row usage over Canary, it also uses the worse SFB `ue` vs Canary's `oe` column. We have tried to emphasize middle finger use over ring since the middle is the strongest/longest finger for most people.
 
+### L and R
+
+Two of the most difficult consonants to place over all for English are `L` and `R`. These "liquids" combine with nearly every other letter in all kinds of sequences, but they are conveniently relatively low-frequency with each other, and by themselves middle of the pack for letter frequencies.
+
+As a result, we put them on the ring finger like many other modern layouts have done (such as Semimak), and find this is an acceptable tradeoff in finger balance, SFB minimization, and in line with our high Rolling goals.
+
 ### Quote
 
 Finally, the `'` symbol is very problematic in many layouts, as it combines with all sorts of other letters (`n't`, `'s`, `'re` to name a few). But one that it combines with very little is `A`, so it gets to retain its Qwerty spot.
