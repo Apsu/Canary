@@ -50,7 +50,7 @@ While it's possible to arrange a layout to make great use of top/bottom-row pink
 
 ### Primary vowels on one hand only
 
-One of the most common ways for modern layouts to improve overall stats (especially Rolls) is to put all of the vowels onto one hand. This does lead to some potential challenges since they combine with almost every other letter (and each other) in such high frequency, it's easy to end up with lots of SFBs.
+One of the most common ways for modern layouts to improve overall stats (especially Rolls) is to put all of the vowels onto one hand. This does lead to some potential challenges since they combine with almost every other letter (and each other) in such high frequency, so it's easy to end up with lots of SFBs.
 
 In addition, vowels participate in lots of Trigram sequences that are also very common such as `ea`, `ou`, `ai`, `oa`, `ui`, `ue`, and so on.
 
@@ -70,13 +70,13 @@ First, it doesn't take advantage of the [Row Stagger](#row-stagger) inner-index 
 
 Secondly, the upper right vowel cluster includes `Y`, causing one of the most common words `you` to be a Redirect that changes rows twice (top-home-top).
 
-Lastly, having `O` on the home row does increase the amount of home-row usage over Canary, it also uses the worse SFB `ue` vs Canary's `oe` column. We have tried to emphasize middle finger use over ring since the middle is the strongest/longest finger for most people.
+Lastly, while having `O` on the home row does increase the amount of home-row usage over Canary, it also uses the worse SFB `ue` vs Canary's `oe` column. We have tried to emphasize middle finger use over ring since the middle is the strongest/longest finger for most people.
 
 ### L and R
 
-Two of the most difficult consonants to place over all for English are `L` and `R`. These "liquids" combine with nearly every other letter in all kinds of sequences, but they are conveniently relatively low-frequency with each other, and by themselves middle of the pack for letter frequencies.
+Two of the most difficult consonants to place overall for English are `L` and `R`. These "liquids" combine with nearly every other letter in all kinds of sequences, but they are conveniently relatively low-frequency with each other, and by themselves middle of the pack for letter frequencies.
 
-As a result, we put them on the ring finger like many other modern layouts have done (such as Semimak), and find this is an acceptable tradeoff in finger balance, SFB minimization, and in line with our high Rolling goals.
+As a result, we put them on the ring finger like many other modern layouts have done (such as Semimak), and find this is an acceptable tradeoff in finger balance, SFB minimization, and is in line with our high Rolling goals.
 
 ### Quote
 
@@ -111,11 +111,11 @@ When looking at the keys around both index-finger home keys, we can see that the
 D G  M H
 ```
 
-The distance to reach either the `D` or `M` from the index home keys is much lower than if the rows weren't staggered, so we have placed medium-frequency letters there.
+The distance to reach either the `G` or `M` from the index home keys is much lower than if the rows weren't staggered, so we have placed medium-frequency letters there.
 
 Similarly, just like Colemak DH, we have placed `D` and `H` in the stronger of the two bottom row positions, where the index fingers can curl slightly in to reach them.
 
-Lastly, in addition to the Angle Mod considerations, there is also the problem of the Qwerty `B` and `Y` positions. These are the hardest to reach on Row Stagger, and so Canary has the least frequent letters there, `Q` and `Z` respectively. `Q` is on the bottom as most people press that key with their left index, and since all vowels are on the right, the most common sequence `QU` does not require an awkward stretch on one hand. This does mean that some words containing `Z` will be slightly more awkward, but since it's the rarest letter, this is an acceptable tradeoff.
+Lastly, in addition to the Angle Mod considerations, there is also the problem of the Qwerty `B` and `Y` positions. These are the hardest to reach on Row Stagger, and so Canary has the least-frequent letters there, `Q` and `Z` respectively. `Q` is on the bottom as most people press that key with their left index, and since all vowels are on the right, the most common sequence `QU` does not require an awkward stretch on one hand. This does mean that some words containing `Z` will be slightly more awkward, but since it's the rarest letter, this is an acceptable tradeoff.
 
 ---
 
@@ -134,7 +134,7 @@ This change can be seen by comparing the Ortho version of Canary with the base v
 
 ---
 
-The latter meaning refers to adjusting which fingers hit which keys in the lower left by recognizing that "traditional" touch-typing technique is not very ergonomic, and a better approach is to use the following mapping:
+The second meaning of "Angle Mod" (often called "Angle Cheat" if the letters aren't moved) refers to adjusting which fingers hit which keys in the lower left by recognizing that "traditional" touch-typing technique is not very ergonomic, and a better approach is to use the following mapping:
 
 - Ring Finger => Qwerty `Z`
 - Middle Finger => Qwerty `X`
@@ -152,7 +152,7 @@ c r s t g m n e i a
 q j v d k x h / , .
 ```
 
-This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`G` and `M`) up to home-row, and rotating the other index keys up or down to compensate, based on letter frequency and also affinity of common sequences such that row skips are minimized as much as possible.
+This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`G` and `M`) up to home-row, and rotating the other index keys up or down to compensate, based on letter frequency and also affinity of common sequences, such that row-skips are minimized as much as possible.
 
 ---
 
