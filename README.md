@@ -44,8 +44,23 @@ It does not overly emphasize inward-rolls over outward-rolls, or vice versa. Whi
 
 As a result, the home-row represents a mixture of both rolling directions, though it does emphasize in-rolls a bit more. This is accomplished by having `T` on the left index and `N` on the right. These letters are very high frequency, but they also are most common *after* many other consonants or vowels, so they will often be the target of rolling sequences on that hand.
 
+### More ring/middle/index load and less pinky load
 
+While it's possible to arrange a layout to make great use of top/bottom-row pinky sequences, this is the one finger that grows in a wide range of lengths across the population, making it very easy for some and nearly impossible for others to use well in this way. Canary minimizes this use by limiting it to have almost 0% SFBs and minimal redirect sequences.
 
+### Primary vowels on one hand only
+
+One of the most common ways for modern layouts to improve overall stats (especially Rolls) is to put all of the vowels onto one hand. This does lead to some potential challenges since they combine with almost every other letter (and each other) in such high frequency, it's easy to end up with lots of SFBs.
+
+In addition, vowels participate in lots of Trigram sequences that are also very common such as `ea`, `ou`, `ai`, `oa`, `ui`, `ue`, and so on.
+
+Canary has a vowel arrangement that is designed to minimize SFBs *and* Redirects without overloading the pinky.
+
+### Semivowels
+
+Another challenge with English is where to put the semivowels `W` and `Y`, as these combine at relatively high frequencies with a variety of other letters. We decided to move them to the other hand in a way that avoids both the primary vowels and the highest frequency Consonant-Semivowel combinations (such as `ly`, `ty`, `tw`, `sw`, and so on).
+
+`W` takes the top left pinky spot because this finger has less to do in an [Angle Mod](#angle-mod) setup, and `Y` sits in the `ysv` column. The tradeoff is making the few words that have `vy` or `sy` sequences SFBs, but these are surprisingly low-frequency Bigrams.
 
 ---
 
@@ -78,7 +93,7 @@ D G  M H
 
 The distance to reach either the `D` or `M` from the index home keys is much lower than if the rows weren't staggered, so we have placed medium-frequency letters there.
 
-Similarly, just like ColemakDH, we have placed `D` and `H` in the stronger of the two bottom row positions, where the index fingers can curl slightly in to reach them.
+Similarly, just like Colemak DH, we have placed `D` and `H` in the stronger of the two bottom row positions, where the index fingers can curl slightly in to reach them.
 
 Lastly, in addition to the Angle Mod considerations, there is also the problem of the Qwerty `B` and `Y` positions. These are the hardest to reach on Row Stagger, and so Canary has the least frequent letters there, `Q` and `Z` respectively. `Q` is on the bottom as most people press that key with their left index, and since all vowels are on the right, the most common sequence `QU` does not require an awkward stretch on one hand. This does mean that some words containing `Z` will be slightly more awkward, but since it's the rarest letter, this is an acceptable tradeoff.
 
@@ -91,7 +106,7 @@ Lastly, in addition to the Angle Mod considerations, there is also the problem o
 - Modifying a layout to account for the stagger angle
 - Which fingers you use for which keys
 
-Concerning the former, this is accomplished by taking the far left key on the bottom row and moving it to the qwerty `B` position, then shifting the remaining 4 keys to the left to take its spot.
+Concerning the former, this is accomplished by taking the far left key on the bottom row and moving it to the Qwerty `B` position, then shifting the remaining 4 keys to the left to take its spot.
 
 This change can be seen by comparing the Ortho version of Canary with the base version, where `QJVD_` gets rotated and becomes `JVD_Q`.
 
@@ -109,7 +124,15 @@ The latter meaning refers to adjusting which fingers hit which keys in the lower
 
 ## Ortho
 
-This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`g` and `m`) up to home row, and rotating the other index keys up or down to compensate, based on frequency and also affinity of common sequences such that row skips are minimized as much as possible.
+As seen in the opening, the Ortho version is as follows:
+
+```
+w l y p b z f o u '
+c r s t g m n e i a
+q j v d k x h / , .
+```
+
+This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`G` and `M`) up to home-row, and rotating the other index keys up or down to compensate, based on letter frequency and also affinity of common sequences such that row skips are minimized as much as possible.
 
 ---
 
