@@ -67,9 +67,20 @@ As a result, the home-row represents a mixture of both rolling directions, thoug
 
 Row Stagger refers to the design of the common keyboard that has been in use for over 100 years, where each row is staggered (shifted) relative to the next row. This results in some interesting features, some which are negative (see [Angle Mod](#angle-mod) below), and some which are positive.
 
-The positive ones are taken advantage of in Canary, as follows:
+The positive ones are taken advantage of in Canary in the following ways:
 
+When looking at the keys around both index-finger home keys, we can see that there is a potential for very convenient key arrangements. The two clusters in question look like this:
 
+```
+ T    N
+D G  M H
+```
+
+The distance to reach either the `D` or `M` from the index home keys is much lower than if the rows weren't staggered, so we have placed medium-frequency letters there.
+
+Similarly, just like ColemakDH, we have placed `D` and `H` in the stronger of the two bottom row positions, where the index fingers can curl slightly in to reach them.
+
+Lastly, in addition to the Angle Mod considerations, there is also the problem of the Qwerty `B` and `Y` positions. These are the hardest to reach on Row Stagger, and so Canary has the least frequent letters there, `Q` and `Z` respectively. `Q` is on the bottom as most people press that key with their left index, and since all vowels are on the right, the most common sequence `QU` does not require an awkward stretch on one hand. This does mean that some words containing `Z` will be slightly more awkward, but since it's the rarest letter, this is an acceptable tradeoff.
 
 ---
 
