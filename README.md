@@ -66,7 +66,7 @@ Another challenge with English is where to put the semivowels `W` and `Y`, as th
 
 Anyone familiar with Colemak DH mod will recognize there are a lot of similarities with Canary. This isn't an accident as there are many good aspects to this layout, but also some things we feel are downsides.
 
-First, it doesn't take advantage of the [Row Stagger](#row-stagger) inner-index keys on the bottom row (see linked section), opting instead to put `K` and `V` there. This has led to some debate in the community, as both of these keys are A) lower frequency and B) pretty high SFBs with `N`. This has led some to swap them, but with `V` on the right, this also causes a common Redirect sequence `eve` which is not the most comfortable.
+First, it doesn't take advantage of the [Row Stagger](#row-stagger) inner-index keys on the bottom row (see linked section), opting instead to put `K` and `V` there. Both of these keys are relatively low frequency, and they interact with either `N` or the vowels, or both. Some folks have opted to swap them but that results in the `eve` Redirect sequence which isn't very comfortable. We decided to keep both on the left hand instead.
 
 Secondly, the upper right vowel cluster includes `Y`, causing one of the most common words `you` to be a Redirect that changes rows twice (top-home-top).
 
