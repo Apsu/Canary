@@ -56,7 +56,7 @@ Canary is based on a few core concepts that have been seen in various layouts, c
 
 Compared to most layouts that don't also sacrifice SFBs or Redirects, Canary has extremely high total Rolls -- over 55% of all Trigrams. This gives it a very "flowy" feel compared to layouts with high Alternates.
 
-It does not overly emphasize inward-rolls over outward-rolls, or vice versa. While there is some conventional wisdom that in-rolls are easier or faster, this is anecdotal at best, and many us feel any benefit is quickly overcome with use.
+It does not overly emphasize inward-rolls over outward-rolls, or vice versa. While there is some conventional wisdom that in-rolls are easier or faster, this is anecdotal at best, and many of us feel any benefit is quickly overcome with use.
 
 As a result, the home-row represents a mixture of both rolling directions, though it does emphasize in-rolls a bit more. This is accomplished by having `T` on the left index and `N` on the right. These letters are very high frequency, but they also are most common *after* many other consonants or vowels, so they will often be the target of rolling sequences on that hand.
 
