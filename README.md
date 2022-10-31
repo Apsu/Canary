@@ -173,6 +173,6 @@ This variation has been modified from the Row Stagger base layout by rotating th
 
 ## Contacts
 
-- AKL Discord: https://discord.gg/mvyggXw3
-- Tournament Discord: https://discord.gg/4VZyp69r
-- MonkeyType Discord: https://discord.gg/fScWpgzF
+- AKL Discord: https://discord.gg/hhQ24W5gtP
+- Tournament Discord: https://discord.gg/NbtMXytPEy
+- MonkeyType Discord: https://discord.com/invite/monkeytype
