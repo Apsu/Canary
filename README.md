@@ -22,8 +22,10 @@ We are publicly releasing this in conjunction with a typing tournament, and in p
 - [Row Stagger](#row-stagger)
 - [Angle Mod](#angle-mod)
 - [Ortho](#ortho)
+- [Etymology](#etymology)
 - [Terminology](#terminology)
 - [Contacts](#contacts)
+
 ---
 
 ## Layout
@@ -98,8 +100,6 @@ As a result, we put them on the ring finger like many other modern layouts have 
 
 Finally, the `'` symbol is very problematic in many layouts, as it combines with all sorts of other letters (`n't`, `'s`, `'re` to name a few). But one that it combines with very little is `A`, so it gets to retain its Qwerty spot.
 
-
-
 ---
 
 ## Row Stagger
@@ -144,6 +144,8 @@ The second meaning of "Angle Mod" (often called "Angle Cheat" if the letters are
 - Middle Finger => Qwerty `X`
 - Index Finger => Qwerty `C` and `V`
 
+It is very very important for you to use the Angle Mod fingerings on Canary. All of the heavy optimization completely depends on it.
+
 ---
 
 ## Ortho
@@ -168,6 +170,14 @@ This variation has been modified from the Row Stagger base layout by rotating th
 - Roll: Trigram which starts on one hand, and progresses to the other hand in one overall direction
 - Redirect: A trigram which changes direction
 - Alternate: A trigram which changes hands twice
+
+---
+
+## Etymology
+
+"Canary" comes from the phrase "canary in a coal mine". Adopters of this layout are likened to miners, and the mine is a layout with extremely high roll stats.
+
+The layout was almost called `hotdog`.
 
 ---
 
