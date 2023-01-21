@@ -158,6 +158,8 @@ q j v d k x h / , .
 
 This variation has been modified from the Row Stagger base layout by rotating the keys that are harder to reach on Ortho (`G` and `M`) up to home-row, and rotating the other index keys up or down to compensate, based on letter frequency and also affinity of common sequences, such that row-skips are minimized as much as possible.
 
+We recommend putting your space key on the left thumb to properly balance the right-hand bias of the layout.
+
 ---
 
 ## Terminology
