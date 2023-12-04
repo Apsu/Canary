@@ -1,0 +1,5 @@
+A way to quickly test out the Canary Keyboard Layout.
+
+1. Download AHK (AutoHotkey) from here: https://www.autohotkey.com/
+2. Execute the canary-v#.ahk script by double-clicking it
+3. To exit/pause the script, right-click the AHK icon in the tray and select accordingly
