@@ -169,9 +169,9 @@ We recommend putting your space key on the left thumb to properly balance the ri
 - Bigram: A sequence of two keys (not containing space)
 - Trigram: A sequence of three keys (not containing space)
 - SFB: Same Finger Bigram; a bigram that requires the same finger for both keys
-- Redirect: A trigram which changes direction on the same hand
-- Roll: A trigram which changes hands once
-- Alternate: A trigram which changes hands twice
+- Redirect: A trigram which changes direction on the same hand (excluding SFBs)
+- Roll: A trigram which changes hands once (excluding SFBs)
+- Alternate: A trigram which changes hands twice (excluding SFBs)
 
 ---
 
