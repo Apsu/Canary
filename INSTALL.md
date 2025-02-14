@@ -14,25 +14,20 @@ Double click on the dmg file you downloaded and follow the directions.
 ## Linux
 [Click here to download the Linux XKB file.](https://github.com/Apsu/Canary/releases/download/v1.0/canary)
 
-Open a terminal. Run `sudo mv Downloads/canary /usr/share/X11/xkb/symbols`. Now you can run `setxkbmap canary` to set your current layout
-to Canary.
+After that, move the file to the `/usr/share/X11/xkb/symbols` directory. You can use the following command to achieve the same.
+```bash
+sudo mv Downloads/canary /usr/share/X11/xkb/symbols`
+```
 
-### Note
+Now you can run `setxkbmap canary` to set your current layout to Canary.
 
-In Wayland, the approach to adding custom keyboard layouts differs from X11. You can't directly use `setxkbmap` since it's specific to X11. Instead, you’ll need to add your custom layout to the appropriate directory and use different methods to apply it.
+> [!Note]
+>In Wayland, the approach to adding custom keyboard layouts differs from X11. You can't directly use `setxkbmap` since it's specific to X11. Instead, you’ll need to add your custom layout to the appropriate directory and use different methods to apply it.
 
-Here’s how you can set up a custom layout in Wayland:
-
-1. **Copy the Layout File:**
-   You can still move your custom layout file to the appropriate directory:
-   ```bash
-   sudo mv ~/Downloads/canary /usr/share/X11/xkb/symbols/
-   ```
-
-2. **Update the XKB Configuration:**
+1. **Update the XKB Configuration:**
    Since Wayland uses the XKB system but doesn't rely on `setxkbmap`, you typically need to ensure your custom layout is recognized by the system. You may also want to check if you need to modify files like `/usr/share/X11/xkb/rules/evdev.xml` or `evdev.lst` to reference your new layout.
 
-3. **Use `localectl` or Desktop Environment Settings:**
+2. **Use `localectl` or Desktop Environment Settings:**
    Once your custom layout is in place, use `localectl` to set it:
    ```bash
    localectl set-x11-keymap canary
@@ -40,7 +35,7 @@ Here’s how you can set up a custom layout in Wayland:
 
    Alternatively, you can change the layout via your desktop environment settings, as mentioned earlier.
 
-4. **Log Out and Log Back In:**
+3. **Log Out and Log Back In:**
    Sometimes, you may need to log out of your session and back in for the changes to take effect.
 
 This way, you can effectively use your custom keyboard layout in a Wayland environment.
